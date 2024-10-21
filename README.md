@@ -15,3 +15,8 @@ Python Kivy Buildozer
 Download the app directly from the Play Store. 
 [![Play Store](images/google-play-badge_PureCrypto.png)](https://play.google.com/store/apps/details?id=org.bbnss.purecrypto&pcampaignid=web_share)
 https://play.google.com/store/apps/details?id=org.bbnss.purecrypto&pcampaignid=web_share
+
+OR
+
+## APK Android
+https://github.com/bbnss/PureCrypto/releases/tag/APK
